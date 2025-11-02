@@ -19,3 +19,4 @@ python-dotenv==1.0.1
 # Optional: for better HTTP performance
 requests==2.32.3
 mistralai>=1.0.0
+yahooquery
