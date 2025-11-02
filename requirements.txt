@@ -2,7 +2,7 @@
 streamlit==1.39.0
 
 # Financial data
-yfinance==0.2.43
+yahooquery>=2.4.1
 pandas==2.2.3
 numpy==1.26.4
 
@@ -11,7 +11,7 @@ matplotlib==3.9.2
 plotly==5.24.1
 
 # AI / LLM integration
-openai==1.52.2
+mistralai>=1.9.11
 
 # Environment variables
 python-dotenv==1.0.1
@@ -19,4 +19,4 @@ python-dotenv==1.0.1
 # Optional: for better HTTP performance
 requests==2.32.3
 mistralai>=1.0.0
-yahooquery
+
